@@ -233,7 +233,7 @@ Style/CommandLiteral:
   EnforcedStyle: percent_x
 
 Style/ConstantVisibility:
-  Enabled: true
+  Enabled: false
 
 Style/Documentation:
   Enabled: false
