@@ -1,6 +1,6 @@
 # Deploy Engine
 
-[![Tests](https://github.com/deployengine/deploy-engine/actions/workflows/test.yml/badge.svg)](https://github.com/deployengine/deployengine/actions/workflows/test.yml) [![Rubocop](https://github.com/deployengine/deploy-engine/actions/workflows/rubocop.yml/badge.svg)](https://github.com/deployengine/deployengine/actions/workflows/rubocop.yml) [![codecov](https://codecov.io/gh/deployengine/deploy-engine/branch/main/graph/badge.svg)](https://codecov.io/gh/deployengine/deployengine)
+[![Tests](https://github.com/deployengine/deploy-engine/actions/workflows/test.yml/badge.svg)](https://github.com/deployengine/deploy-engine/actions/workflows/test.yml) [![Rubocop](https://github.com/deployengine/deploy-engine/actions/workflows/rubocop.yml/badge.svg)](https://github.com/deployengine/deploy-engine/actions/workflows/rubocop.yml) [![codecov](https://codecov.io/gh/deployengine/deploy-engine/branch/main/graph/badge.svg)](https://codecov.io/gh/deployengine/deploy-engine)
 
 A full-featured, Docker powered PaaS and website control panel.
 
