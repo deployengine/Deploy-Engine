@@ -215,6 +215,7 @@ GEM
     simplecov-html (0.12.3)
     simplecov_json_formatter (0.1.4)
     strscan (3.0.3)
+    swagger-blocks (3.0.0)
     thor (1.2.1)
     timeout (0.3.0)
     tzinfo (2.0.4)
@@ -245,6 +246,7 @@ DEPENDENCIES
   shoulda-matchers
   simplecov
   simplecov-cobertura
+  swagger-blocks
   tzinfo-data
 
 RUBY VERSION

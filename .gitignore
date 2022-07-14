@@ -32,3 +32,6 @@ vendor/ruby
 .vscode
 .env
 coverage
+
+## Ignore Swagger JSON files.
+/public/apidocs/

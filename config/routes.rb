@@ -6,6 +6,9 @@ Rails.application.routes.draw do
   # Defines the root path route ("/")
   # root "articles#index"
 
+  resources :api_docs, only: [:index]
+  get '/swagger' => redirect('/swagger/index.html')
+
   namespace :v1 do
     resources :pings
   end
