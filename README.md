@@ -1,24 +1,18 @@
-# README
+# Deploy Engine
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[![Tests](https://github.com/deployengine/deploy-engine/actions/workflows/test.yml/badge.svg)](https://github.com/deployengine/deployengine/actions/workflows/test.yml) [![Rubocop](https://github.com/deployengine/deploy-engine/actions/workflows/rubocop.yml/badge.svg)](https://github.com/deployengine/deployengine/actions/workflows/rubocop.yml) [![codecov](https://codecov.io/gh/deployengine/deploy-engine/branch/main/graph/badge.svg)](https://codecov.io/gh/deployengine/deployengine)
 
-Things you may want to cover:
+A full-featured, Docker powered PaaS and website control panel.
 
-* Ruby version
+## Features
 
-* System dependencies
+- Powered by Docker/Docker Swarm
+- Client facing control panel with FTP/File Manager and database admin tools
 
-* Configuration
+## Contributing
 
-* Database creation
+Contributions are welcome! See [CONTRIBUTING](CONTRIBUTING.md)
 
-* Database initialization
+## License
 
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+[MIT License](LICENSE.md) © Dro Sarhadian

@@ -29,3 +29,6 @@
 /config/master.key
 
 vendor/ruby
+.vscode
+.env
+coverage
